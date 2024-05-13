@@ -1,0 +1,10 @@
+C:\Users\marc_\source\repos\CalcArn\CalcArn\obj\Debug\CalcArn.csproj.AssemblyReference.cache
+C:\Users\marc_\source\repos\CalcArn\CalcArn\obj\Debug\CalcArn.Form1.resources
+C:\Users\marc_\source\repos\CalcArn\CalcArn\obj\Debug\CalcArn.Properties.Resources.resources
+C:\Users\marc_\source\repos\CalcArn\CalcArn\obj\Debug\CalcArn.csproj.GenerateResource.cache
+C:\Users\marc_\source\repos\CalcArn\CalcArn\obj\Debug\CalcArn.csproj.CoreCompileInputs.cache
+C:\Users\marc_\source\repos\CalcArn\CalcArn\bin\Debug\CalcArn.exe.config
+C:\Users\marc_\source\repos\CalcArn\CalcArn\bin\Debug\CalcArn.exe
+C:\Users\marc_\source\repos\CalcArn\CalcArn\bin\Debug\CalcArn.pdb
+C:\Users\marc_\source\repos\CalcArn\CalcArn\obj\Debug\CalcArn.exe
+C:\Users\marc_\source\repos\CalcArn\CalcArn\obj\Debug\CalcArn.pdb
